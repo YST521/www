@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c206318d-2511-4e8f-8be4-020f6273d4a3++3686",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c206318d-2511-4e8f-8be4-020f6273d4a3++3686" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c206318d-2511-4e8f-8be4-020f6273d4a3++3686" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "89586BE4-68EB-4D4F-89D7-FD75AABB79A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c206318d-2511-4e8f-8be4-020f6273d4a3++3686" : "SecurityInspection\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SecurityInspection",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/iOS\/SecurityInspection\/SecurityInspection.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/Daniel.Xiao%40logicsolutions.com@svn.logicsolutions.com\/svnrepos",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c206318d-2511-4e8f-8be4-020f6273d4a3++3686"
+    }
+  ]
+}

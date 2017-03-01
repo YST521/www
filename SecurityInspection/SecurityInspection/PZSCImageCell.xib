@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="250" id="KGk-i7-Jjw" customClass="PZSCImageCell">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="249"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="UAU-nJ-YzO">
+                        <rect key="frame" x="107" y="25" width="161" height="199"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="199" id="dur-DR-hOg"/>
+                            <constraint firstAttribute="width" constant="161" id="j4w-iB-jfk"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="centerY" secondItem="UAU-nJ-YzO" secondAttribute="centerY" id="KTc-3r-hzh"/>
+                    <constraint firstAttribute="centerX" secondItem="UAU-nJ-YzO" secondAttribute="centerX" id="qXY-3h-FHU"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="photo" destination="UAU-nJ-YzO" id="bfW-3G-Paz"/>
+            </connections>
+            <point key="canvasLocation" x="454" y="155"/>
+        </tableViewCell>
+    </objects>
+</document>

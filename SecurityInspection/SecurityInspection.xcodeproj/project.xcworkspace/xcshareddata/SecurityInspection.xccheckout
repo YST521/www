@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>89586BE4-68EB-4D4F-89D7-FD75AABB79A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c206318d-2511-4e8f-8be4-020f6273d4a3++3686</key>
+		<string>svn://Daniel.Xiao%40logicsolutions.com@svn.logicsolutions.com/svnrepos/SecurityInspection</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/iOS/SecurityInspection/SecurityInspection.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c206318d-2511-4e8f-8be4-020f6273d4a3++3686</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c206318d-2511-4e8f-8be4-020f6273d4a3++3686</key>
+		<string>svn://Daniel.Xiao%40logicsolutions.com@svn.logicsolutions.com/svnrepos</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://Daniel.Xiao%40logicsolutions.com@svn.logicsolutions.com/svnrepos/SecurityInspection/trunk/iOS/SecurityInspection/SecurityInspection.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c206318d-2511-4e8f-8be4-020f6273d4a3++3686</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c206318d-2511-4e8f-8be4-020f6273d4a3++3686</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SecurityInspection</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+//
+//  SecurityInspection-Prefix.pch
+//  SecurityInspection
+//
+//  Created by chase on 15/4/20.
+//  Copyright (c) 2015年 chase. All rights reserved.
+//
+
+
+#ifdef __OBJC__
+#import "config.h"
+#import "AFNetworking.h"
+#import "PublicFunction.h"
+
+typedef void (^RequestSuccessBlock) (id responseObject, NSDictionary *userInfo);
+typedef void (^RequestErrorBlock) (NSError *error);
+
+
+#endif
